@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rhythicaura/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rhythicaura/static/js/main.a85e529c.chunk.js",
+    "main.js.map": "/rhythicaura/static/js/main.a85e529c.chunk.js.map",
+    "runtime-main.js": "/rhythicaura/static/js/runtime-main.84723e6f.js",
+    "runtime-main.js.map": "/rhythicaura/static/js/runtime-main.84723e6f.js.map",
+    "static/js/2.f341a3bc.chunk.js": "/rhythicaura/static/js/2.f341a3bc.chunk.js",
+    "static/js/2.f341a3bc.chunk.js.map": "/rhythicaura/static/js/2.f341a3bc.chunk.js.map",
+    "static/js/3.8f0f3fba.chunk.js": "/rhythicaura/static/js/3.8f0f3fba.chunk.js",
+    "static/js/3.8f0f3fba.chunk.js.map": "/rhythicaura/static/js/3.8f0f3fba.chunk.js.map",
+    "index.html": "/rhythicaura/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rhythicaura/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f341a3bc.chunk.js.LICENSE.txt": "/rhythicaura/static/js/2.f341a3bc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rhythicaura/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84723e6f.js",
+    "static/js/2.f341a3bc.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a85e529c.chunk.js"
+  ]
+}
