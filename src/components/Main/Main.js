@@ -9,7 +9,7 @@ var background = {
 function Main() {
     return (
         <div style={background}>
-            <h1></h1>
+            <h1>Hello</h1>
         </div>
     )
 }

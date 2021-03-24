@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { MenuItems } from "./MenuItems";
 import logo from './Images/logo.png'
 import './Navbar.css'
-import { Button } from "../Button"
 class Navbar extends Component {
     state = { clicked: false }
 
@@ -15,7 +14,7 @@ class Navbar extends Component {
             <nav className="NavbarItems">
                 <h1 className="navbar-logo" style={{whiteSpace: "nowrap"}}>
                     Rhythmic
-                    <img src={logo} style={{width: "70px"}}></img>
+                    <img src={logo} style={{width: "70px"}} alt="logo"></img>
                     Aura
                 </h1>
                 <div className="menu-icon" onClick={this.handleClick}>
