@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+.app {
+  min-height: 100vh;
+  background: linear-gradient(90deg, #fefce6 0%, #9a2857 100%);
+}
