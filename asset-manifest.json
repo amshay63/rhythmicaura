@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rhythmicaura/static/css/main.edef34f1.chunk.css",
-    "main.js": "/rhythmicaura/static/js/main.4751d3c8.chunk.js",
-    "main.js.map": "/rhythmicaura/static/js/main.4751d3c8.chunk.js.map",
+    "main.css": "/rhythmicaura/static/css/main.09c0f1b5.chunk.css",
+    "main.js": "/rhythmicaura/static/js/main.6c496767.chunk.js",
+    "main.js.map": "/rhythmicaura/static/js/main.6c496767.chunk.js.map",
     "runtime-main.js": "/rhythmicaura/static/js/runtime-main.9eb2f57e.js",
     "runtime-main.js.map": "/rhythmicaura/static/js/runtime-main.9eb2f57e.js.map",
     "static/js/2.34d9ca90.chunk.js": "/rhythmicaura/static/js/2.34d9ca90.chunk.js",
     "static/js/2.34d9ca90.chunk.js.map": "/rhythmicaura/static/js/2.34d9ca90.chunk.js.map",
     "index.html": "/rhythmicaura/index.html",
-    "static/css/main.edef34f1.chunk.css.map": "/rhythmicaura/static/css/main.edef34f1.chunk.css.map",
+    "static/css/main.09c0f1b5.chunk.css.map": "/rhythmicaura/static/css/main.09c0f1b5.chunk.css.map",
     "static/js/2.34d9ca90.chunk.js.LICENSE.txt": "/rhythmicaura/static/js/2.34d9ca90.chunk.js.LICENSE.txt",
     "static/media/logo.5c75695c.png": "/rhythmicaura/static/media/logo.5c75695c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9eb2f57e.js",
     "static/js/2.34d9ca90.chunk.js",
-    "static/css/main.edef34f1.chunk.css",
-    "static/js/main.4751d3c8.chunk.js"
+    "static/css/main.09c0f1b5.chunk.css",
+    "static/js/main.6c496767.chunk.js"
   ]
 }
