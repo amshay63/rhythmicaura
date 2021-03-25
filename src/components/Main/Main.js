@@ -1,4 +1,5 @@
 import React from 'react'
+import './Main.css'
 
 
 var background = {
@@ -9,7 +10,17 @@ var background = {
 function Main() {
     return (
         <div style={background}>
-            <h1>Hello</h1>
+           <div className="hero">
+               <br></br>
+               <br></br>
+               <br></br>
+               <hr></hr>
+               <h2>WHAT</h2>
+                <h2>IS</h2>
+                <h1>RHYTHMIC AURA?</h1>
+                <hr></hr>
+               </div>
+
         </div>
     )
 }
