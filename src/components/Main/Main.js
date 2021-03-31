@@ -30,12 +30,12 @@ function Main() {
             </div>
             <div id="gallery">
                 <div className="gallerysection">
-                    <h1>Hello</h1>
+                    <h1>Photos will go here</h1>
                 </div> 
             </div>
             <div id="contact">
                 <div className="contactsection">
-                    <h1>Hello</h1>
+                    <h1>Google Form</h1>
                 </div>
             </div>
         </div>
