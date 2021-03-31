@@ -1,0 +1,12 @@
+
+.foot hr{
+    border-color: #493d69;
+}
+.foot{
+    background: linear-gradient(0deg, #fefce6 0%, #493d69 100%);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

@@ -4,10 +4,10 @@
   padding: 0;
 }
 
-html, body {
-  height: 100%;
-}
-.app {
-  min-height: 100vh;
-  background: linear-gradient(90deg, #fefce6 0%, #9a2857 100%);
+html {
+  background: linear-gradient(180deg, #3f9ab9 0%, #493d69 100%) no-repeat center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
